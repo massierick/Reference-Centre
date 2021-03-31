@@ -1,5 +1,5 @@
 # Reference-Centre
-![Screenshot of Reference Centre](Reference%20Centre%20Screen%201.PNG?raw=true "Screenshot of Reference Centre")
+![Screenshot of Reference Centre](rfce.PNG?raw=true "Screenshot of Reference Centre")
 The Reference Centre is .net WPF application that was designed for Transport Canada Inspectors to quickly retrieve documents stored on a network drive that was setup with Windows Sync (Always Available Offline). 
 
 
