@@ -29,7 +29,7 @@ It was originally designed for Tablets running on Windows 8.1 and has been teste
 
 ### Changing Folder Location
 If you wish to point to a specific folder, you need to modify the "App.Config" file in the root directory.
-Then you need to find the *"OfflineDrivePath"* Key and set to your desired path (usually the default path is set to *"C:\\"*).
+Then you need to find the *"OfflineDrivePath"* Key and set to your desired path (the default path is set to *"C:\\"*).
 
 ## How to restore NuGet Packages
 If you're using Visual Studio, first enable package restore as follows. Otherwise continue to the sections that follow.
@@ -72,7 +72,7 @@ Il a été initialement conçu pour les tablettes fonctionnant sous Windows 8.1 
 - Appuyez sur la touche "F5" ou allez au menu de débogage dans Visual Studio et sélectionnez "Démarrer le débogage" 
 
 ### Modification de l'emplacement du dossier 
-Si vous souhaitez pointer vers un dossier spécifique, vous devez modifier le fichier "App.Config" dans le répertoire racine. Ensuite, vous devez trouver la clé "OfflineDrivePath" et définir le chemin souhaité (généralement le chemin par défaut est défini sur "C: \"). 
+Si vous souhaitez pointer vers un dossier spécifique, vous devez modifier le fichier "App.Config" dans le répertoire racine. Ensuite, vous devez trouver la clé "OfflineDrivePath" et définir le chemin souhaité (le chemin par défaut est défini sur "C: \"). 
 
 ## Comment restaurer des packages NuGet 
 - Si vous utilisez Visual Studio, activez d'abord la restauration de package comme suit. Sinon, passez aux sections suivantes. 
